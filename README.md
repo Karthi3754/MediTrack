@@ -1,4 +1,4 @@
-# MediTrack
+# 🏥 MediTrack
 
 A Java Swing-based desktop application that manages medicine inventory with role-based access (Admin and User). It features a sleek UI, search functionality, medicine tracking, and a chatbot powered by OpenAI's GPT API.
 
