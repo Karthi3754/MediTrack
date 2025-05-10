@@ -23,7 +23,7 @@ A Java Swing-based desktop application that manages medicine inventory with role
 ## 🛠️ Technologies Used
 
 - Java Swing (GUI)
-- JDBC (for database operations)
+- JDBC (for database operations with MySQL)
 - OkHttp (HTTP client for API calls)
 - OpenAI API (Chatbot)
 - JSON (org.json for parsing responses)
